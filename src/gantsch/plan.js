@@ -1,5 +1,7 @@
 import React, { useEffect } from "react";
 import GSTC from "./components/GSTC";
+import Firebase from "../Config/firebase";
+
 
 function Plan() {
   const config = {
